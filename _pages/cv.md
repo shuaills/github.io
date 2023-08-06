@@ -1,11 +1,13 @@
 ---
-layout: cv
-title: Shuai Shi's CV
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
 ---
 
-# Shuai Shi
-
-+44 07749831095 丨shishuaicareer@gmail.com Edinburgh linkedin.com/in/shuai-shi-4152a6240
+{% include base_path %}
 
 ## Education
 
