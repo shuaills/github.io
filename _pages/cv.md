@@ -60,7 +60,7 @@ BSc Artificial Intelligence, First-Class Honours degree
 
 [github]: https://github.com/shuaills/myECE408.git "GitHub"
 
-**CUDA, GPU Optimization, Inference Acceleration**
+**CUDA, GPU Optimization, Nsight tools, Inference Acceleration**
 
 - Constructed DNN inference models using open source frameworks 
 - Comprehensively optimized CUDA code and achieved significant speedup:
