@@ -41,7 +41,7 @@ BSc Artificial Intelligence, First-Class Honours degree
 - **Accuracy Enhancement with FAISS**: Utilized FAISS to improve data understanding and boost analysis accuracy.
 
 
-### End-to-End Pedometer Android App Using IoT Device [Thesis] (http://shuaills.github.io/files/ShuaiShidissertation.pdf
+### End-to-End Pedometer Android App Using IoT Device [Thesis] (http://shuaills.github.io/files/ShuaiShidissertation.pdf)
 
 **Technologies**: TensorFlow, LSTM, FFT, Wavelet Algorithms, TensorFlow Lite, Chaquopy, Figma
 
