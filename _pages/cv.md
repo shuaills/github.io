@@ -25,46 +25,40 @@ BSc Artificial Intelligence, First-Class Honours degree
 
 ## Experience
 
-### Implementation and Optimization of ResNet-50 Inference Model from Scratch [GitHub][github]
+### Implementation and Optimization of ResNet-50 Inference Model from Scratch [GitHub](https://github.com/shuaills/Resnet50-from-scratch.git)
+**Technologies**: Python, C++, cuDNN, cuBLAS, Int8 Quantization, Operator Fusion
 
-[github]: https://github.com/shuaills/Resnet50-from-scratch.git "GitHub"
-
-- Implemented the ResNet-50 inference model from scratch using Python and C++.
-- Optimized the model using GPU libraries like cuDNN and cuBLAS for faster inference.
-- Applied techniques like Int8 quantization and operator fusion to enhance efficiency.
-
-### ChatSQLQuest [GitHub][github]
-
-[github]: https://github.com/shuaills/ChatSQLQuest.git "GitHub"
-
-- Developed a data analysis app using LangChain framework and SQLite database.
-- Generated Python code automatically using customized agents and chains.
-- Leveraged FAISS to improve data understanding and analysis accuracy.
+- **ResNet-50 Inference Model Construction**: Implemented from scratch using Python and C++, adhering to original architecture guidelines.
+- **GPU Optimization for Speed**: Leveraged GPU libraries like cuDNN and cuBLAS for faster inference.
+- **Efficiency Enhancement Techniques**: Applied Int8 quantization and operator fusion to further enhance model efficiency and performance.
 
 
-### End-to-End Pedometer Android App Using IoT Device `2021.12 -2022.05`
-[An End to End Real-Time Step Counting Algorithm Implementation Using The Wearable RESpeck Monitor](http://shuaills.github.io/files/ShuaiShidissertation.pdf)
+### ChatSQLQuest [GitHub](https://github.com/shuaills/ChatSQLQuest.git)
+**Technologies**: LangChain Framework, SQLite Database, FAISS, Python
 
-- Engineered a 97% accurate pedometer Android app with TensorFlow and LSTM.  
-- Implemented FFT and wavelet algorithms for 91% accurate step counting.
-- Optimized model integration using TensorFlow Lite and Chaquopy.
-- Designed accessible interface for elderly users with Figma.
+- **Data Analysis App Development**: Leveraged LangChain framework and SQLite database to develop a robust data analysis application.
+- **Automatic Python Code Generation**: Employed customized agents and chains to facilitate automatic generation of Python code.
+- **Accuracy Enhancement with FAISS**: Utilized FAISS to improve data understanding and boost analysis accuracy.
 
-### Optimization and Localization of DNN Inference Models
 
-[GitHub][github]
+### End-to-End Pedometer Android App Using IoT Device [Thesis] (http://shuaills.github.io/files/ShuaiShidissertation.pdf
 
-[github]: https://github.com/shuaills/myECE408.git "GitHub"
+**Technologies**: TensorFlow, LSTM, FFT, Wavelet Algorithms, TensorFlow Lite, Chaquopy, Figma
 
-**CUDA, GPU Optimization, Nsight tools, Inference Acceleration**
+- **High-Accuracy Pedometer Development**: Utilized TensorFlow and LSTM to engineer a 97% accurate pedometer Android app.
+- **Step Counting Algorithms**: Implemented FFT and wavelet algorithms, achieving 91% accuracy in step counting.
+- **Model Optimization**: Integrated optimized models using TensorFlow Lite and Chaquopy to enhance performance.
+- **User-Centric Design**: Crafted an accessible interface specifically for elderly users, employing Figma for design.
 
-- Constructed DNN inference models using open source frameworks 
-- Comprehensively optimized CUDA code and achieved significant speedup:
-   - Tiled shared memory and kernel fusion for convolution layer
-   - Advanced matrix multiplication algorithms
-   - Overlapped computation and data transfer  
-   - FP16 and input channel reduction
-   - GPU utilization improvement validated with Nsight tools
-- Authored tutorials and localized codebase
-   - Enabled self-learners to run experiments locally
-   - Removed dependency on UIUC accounts
+
+### Optimization and Localization of DNN Inference Models [GitHub](https://github.com/shuaills/myECE408.git)
+
+**Technologies**: CUDA, GPU Optimization, Nsight Tools, Inference Acceleration
+
+- **DNN Inference Models Construction**: Built using open-source frameworks.
+- **CUDA Optimization for Speedup**:
+   - Convolution layer: Tiled shared memory, kernel fusion.
+   - Matrix multiplication: Implemented register-tiled algorithms.
+   - Computation: Overlapped with data transfer, FP16 arithmetic.
+   - Validation: GPU improvement with Nsight tools.
+- **Code Localization & Instruction Support**: Authored tutorials, localized project code base, and removed UIUC account dependency.
