@@ -37,7 +37,7 @@ BSc Artificial Intelligence, First-Class Honours degree
 
 ### ChatSQLQuest `2022.04 - 2023.05`
 
-[GitHub][github] `2023.05 - 2023.06`
+[GitHub][github]
 
 [github]: https://github.com/shuaills/ChatSQLQuest.git "GitHub"
 
@@ -53,3 +53,22 @@ BSc Artificial Intelligence, First-Class Honours degree
 - Implemented FFT and wavelet algorithms for 91% accurate step counting.
 - Optimized model integration using TensorFlow Lite and Chaquopy.
 - Designed accessible interface for elderly users with Figma.
+
+### Optimization and Localization of DNN Inference Models
+
+[GitHub][github]
+
+[github]: https://github.com/shuaills/myECE408.git "GitHub"
+
+**CUDA, GPU Optimization, Inference Acceleration**
+
+- Constructed DNN inference models using open source frameworks 
+- Comprehensively optimized CUDA code and achieved significant speedup:
+   - Tiled shared memory and kernel fusion for convolution layer
+   - Advanced matrix multiplication algorithms
+   - Overlapped computation and data transfer  
+   - FP16 and input channel reduction
+   - GPU utilization improvement validated with Nsight tools
+- Authored tutorials and localized codebase
+   - Enabled self-learners to run experiments locally
+   - Removed dependency on UIUC accounts
