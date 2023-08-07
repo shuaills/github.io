@@ -21,13 +21,11 @@ BSc Artificial Intelligence, First-Class Honours degree
 
 **Languages:** C/C++, Python, Java, Rust, SQL, JavaScript, HTML/CSS
 
-**Developer Tools:** AWS, Docker, TensorFlow, PyTorch, Cuda, TVM, Git
+**Developer Tools:** TensorFlow, PyTorch, Cuda, TVM, Git, AWS, Docker
 
 ## Experience
 
-### Implementation and Optimization of ResNet-50 Inference Model from Scratch 
-
-[GitHub][github] `2023.05 - 2023.06`
+### Implementation and Optimization of ResNet-50 Inference Model from Scratch [GitHub][github]
 
 [github]: https://github.com/shuaills/Resnet50-from-scratch.git "GitHub"
 
@@ -35,9 +33,7 @@ BSc Artificial Intelligence, First-Class Honours degree
 - Optimized the model using GPU libraries like cuDNN and cuBLAS for faster inference.
 - Applied techniques like Int8 quantization and operator fusion to enhance efficiency.
 
-### ChatSQLQuest `2022.04 - 2023.05`
-
-[GitHub][github]
+### ChatSQLQuest [GitHub][github]
 
 [github]: https://github.com/shuaills/ChatSQLQuest.git "GitHub"
 
