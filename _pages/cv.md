@@ -58,7 +58,7 @@ BSc Artificial Intelligence, First-Class Honours degree
 
 ## Open Source Contributions
 
-### PaddlePaddle Pytorch Code Conversion Toolkits [GitHub](https://github.com/PaddlePaddle/PaConvert/issues/112)
+### PaddlePaddle - Pytorch Code Conversion Toolkits [GitHub](https://github.com/PaddlePaddle/PaConvert/issues/112)
 
 **Technologies**: PaddlePaddle, PyTorch, AST, GitHub Collaboration, Test-Driven Development (TDD)
 
