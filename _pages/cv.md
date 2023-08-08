@@ -21,25 +21,9 @@ BSc Artificial Intelligence, First-Class Honours degree
 
 **Languages:** C/C++, Python, Java, Rust, SQL, JavaScript, HTML/CSS
 
-**Developer Tools:** TensorFlow, PyTorch, Cuda, TVM, Git, AWS, Docker
+**Developer Tools:** Cuda, PyTorch, TensorFlow, TVM, Git, AWS, Docker
 
-## Experience
-
-### Implementation and Optimization of ResNet-50 Inference Model from Scratch [GitHub](https://github.com/shuaills/Resnet50-from-scratch.git)
-**Technologies**: Python, C++, cuDNN, cuBLAS, Int8 Quantization, Operator Fusion
-
-- **ResNet-50 Inference Model Construction**: Implemented from scratch using Python and C++, adhering to original architecture guidelines.
-- **GPU Optimization for Speed**: Leveraged GPU libraries like cuDNN and cuBLAS for faster inference.
-- **Efficiency Enhancement Techniques**: Applied Int8 quantization and operator fusion to further enhance model efficiency and performance.
-
-
-### ChatSQLQuest [GitHub](https://github.com/shuaills/ChatSQLQuest.git)
-**Technologies**: LangChain Framework, SQLite Database, FAISS, Python
-
-- **Data Analysis App Development**: Leveraged LangChain framework and SQLite database to develop a robust data analysis application.
-- **Automatic Python Code Generation**: Employed customized agents and chains to facilitate automatic generation of Python code.
-- **Accuracy Enhancement with FAISS**: Utilized FAISS to improve data understanding and boost analysis accuracy.
-
+## Projects
 
 ### End-to-End Pedometer Android App Using IoT Device [Thesis] (http://shuaills.github.io/files/ShuaiShidissertation.pdf)
 
@@ -62,3 +46,23 @@ BSc Artificial Intelligence, First-Class Honours degree
    - Computation: Overlapped with data transfer, FP16 arithmetic.
    - Validation: GPU improvement with Nsight tools.
 - **Code Localization & Instruction Support**: Authored tutorials, localized project code base, and removed UIUC account dependency.
+
+
+### Needle: An Deep Learning Framework [GitHub](https://github.com/shuaills/myCMU714.git)
+
+**Technologies**: Deep Learning, CUDA, C++, Python
+
+- **Framework Architecture**: Designed and implemented core components like automatic differentiation, neural network layers, activation functions, and optimizers.
+- **Performance Optimization**: Engineered a high performance NumPy-like ndarray on CPU and GPU using techniques like multi-threading, SIMD vectors, and CUDA kernels.
+- **Computer Vision & NLP Models**: Constructed models including ResNet, LSTM, and CNNs achieving state-of-the-art accuracy on CIFAR-10 and Penn Treebank.
+
+## Open Source Contributions
+
+### PaddlePaddle Pytorch Code Conversion Toolkits [GitHub](https://github.com/PaddlePaddle/PaConvert/issues/112)
+
+**Technologies**: PaddlePaddle, PyTorch, AST, GitHub Collaboration, Test-Driven Development (TDD)
+
+- **API Conversion Contributions**: Implemented rules and tests for PyTorch APIs (e.g. torch.nn.Module) to convert into PaddlePaddle.
+- **Documentation and Mapping**: Authored guides on API mapping relationships between PyTorch and PaddlePaddle.
+- **Code Conversion Expertise**: Utilized AST-based conversion and testing methodologies.
+- **AI Model Migration Initiative**: Aided in making migration between AI frameworks seamless and efficient.
