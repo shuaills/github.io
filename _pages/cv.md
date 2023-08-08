@@ -25,7 +25,7 @@ BSc Artificial Intelligence, First-Class Honours degree
 
 ## Projects
 
-### End-to-End Pedometer Android App Using IoT Device [Thesis] (http://shuaills.github.io/files/ShuaiShidissertation.pdf)
+### End-to-End Pedometer Android App Using IoT Device [Thesis](http://shuaills.github.io/files/ShuaiShidissertation.pdf)
 
 **Technologies**: TensorFlow, LSTM, FFT, Wavelet Algorithms, TensorFlow Lite, Chaquopy, Figma
 
