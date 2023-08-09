@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
 
 I am graduate student studying computer science at University of Edinburgh.
 
