@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am graduate student studying computer science at University of Edinburgh.
+I am undergraduate student studying computer science at University of Edinburgh.
 
 I have a broad interest in building efficient systems for training and serving deep learning models, with a primary focus on large language models (LLMs).
 
