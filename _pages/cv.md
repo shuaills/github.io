@@ -29,26 +29,24 @@ BSc Artificial Intelligence, First-Class Honours degree
 
 **Technologies**: TensorFlow, LSTM, FFT, Wavelet Algorithms, TensorFlow Lite, Chaquopy, Figma
 
-- **High-Accuracy Pedometer Development**: Utilized TensorFlow and LSTM to engineer a 97% accurate pedometer Android app.
-- **Step Counting Algorithms**: Implemented FFT and wavelet algorithms, achieving 91% accuracy in step counting.
-- **Model Optimization**: Integrated optimized models using TensorFlow Lite and Chaquopy to enhance performance.
-- **User-Centric Design**: Crafted an accessible interface specifically for elderly users, employing Figma for design.
+- **High-Accuracy Pedometer Development**: Engineered a pedometer app using a two-step system, Python/SQL data pipeline, and LSTM model with TensorFlow for 97% accurate activity detection.
+- **Step Counting Algorithms**: Implemented FFT and wavelet transform algorithms for 91% accurate step counting, surpassing traditional methods by 11%.
+- **Model Optimization**: Integrated machine learning models into the Android app using TensorFlow Lite and Chaquopy to run Python in the JVM, optimizing efficiency
 
 
 ### Optimization and Localization of DNN Inference Models [GitHub](https://github.com/shuaills/myECE408.git)
 
 **Technologies**: CUDA, GPU Optimization, Nsight Tools, Inference Acceleration
 
-- **DNN Inference Models Construction**: Built using open-source frameworks.
-- **CUDA Optimization for Speedup**:
-   - Convolution layer: Tiled shared memory, kernel fusion.
-   - Matrix multiplication: Implemented register-tiled algorithms.
-   - Computation: Overlapped with data transfer, FP16 arithmetic.
-   - Validation: GPU improvement with Nsight tools.
-- **Code Localization & Instruction Support**: Authored tutorials, localized project code base, and removed UIUC account dependency.
+- **Convolution Layer Optimization**: Merged techniques including tiled shared memory, shared memory
+matrix multiplication, input matrix unrolling, and kernel fusion for efficient convolution.
+- **Performance Enhancement**: Combined performance tuning through constant memory, loop unrolling,
+parameter optimization, and specialized kernel implementations with computational efficiency methods
+like input channel reduction and Tensor Core acceleration.
+- **GPU Utilization Boost**: Leveraged Nsight tools to enhance GPU usage, employing advanced matrix multiplication algorithms and overlapping computation with data transfer to maximize efficiency.
 
 
-### Needle: An Deep Learning Framework [GitHub](https://github.com/shuaills/myCMU714.git)
+### Needle: A Deep Learning Framework [GitHub](https://github.com/shuaills/myCMU714.git)
 
 **Technologies**: Deep Learning, CUDA, C++, Python
 
@@ -62,7 +60,6 @@ BSc Artificial Intelligence, First-Class Honours degree
 
 **Technologies**: PaddlePaddle, PyTorch, AST, GitHub Collaboration, Test-Driven Development (TDD)
 
-- **API Conversion Contributions**: Implemented rules and tests for PyTorch APIs (e.g. torch.nn.Module) to convert into PaddlePaddle.
-- **Documentation and Mapping**: Authored guides on API mapping relationships between PyTorch and PaddlePaddle.
-- **Code Conversion Expertise**: Utilized AST-based conversion and testing methodologies.
-- **AI Model Migration Initiative**: Aided in making migration between AI frameworks seamless and efficient.
+- **API Conversion and Documentation**: Implemented and tested rules for converting PyTorch APIs (e.g., torch.nn.Module) into PaddlePaddle, authored guides on API mapping, and utilized AST-based conversion methodologies.
+- **Model Migration Initiative**: Contributed to a seamless and efficient migration process between AI frameworks, reflecting expertise in code conversion and testing methodologies
+
