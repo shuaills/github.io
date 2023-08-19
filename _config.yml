@@ -177,7 +177,6 @@ kramdown:
 collections:
   posts:
     output: true
-
   test_folder:  
     output: true
     permalink: /test-folder/:name/
@@ -197,8 +196,6 @@ collections:
 
 # Defaults
 defaults:
-defaults:
-
   - scope:  
       path: ""
       type: test_folder
