@@ -15,17 +15,21 @@ This post summarizes an efficient three-pass approach for reading research paper
 - Get a bird's-eye view
 - Assess category, context, correctness, contributions, clarity
 
-<button id="toggleFirst" onclick="toggleVisibility('first')">Toggle First Pass Summary</button>
+<button id="toggleFirst" onclick="toggleVisibility('first')">Ask yourself after 1st Pass</button>
 
 <div id="first" style="display:none">
 
 At the end of the first pass, you should be able to answer:
 
-1. **Category:** Type of paper (measurement, analysis, prototype description, etc)
-2. **Context:** Related work, theoretical basis 
-3. **Correctness:** Validity of assumptions
-4. **Contributions:** Main innovations
-5. **Clarity:** Quality of writing
+1. Category: What type of paper is this? A measure-
+ment paper? An analysis of an existing system? A
+description of a research prototype?
+2. Context: Which other papers is it related to? Which
+theoretical bases were used to analyze the problem?
+3. Correctness: Do the assumptions appear to be valid?
+4. Contributions: What are the paper’s main contribu-
+tions?
+5. Clarity: Is the paper well written?
 
 </div>
 
@@ -37,7 +41,7 @@ At the end of the first pass, you should be able to answer:
 - Grasp purpose, methods, techniques, results
 - Assess assumptions, approach, validity of conclusions
 
-<button id="toggleSecond" onclick="toggleVisibility('second')">Toggle Second Pass Summary</button>
+<button id="toggleSecond" onclick="toggleVisibility('second')">Ask yourself after 2st Pass</button>
 
 <div id="second" style="display:none">
 
@@ -52,7 +56,7 @@ At the end of the second pass, you should have a thorough grasp of the paper's m
 - Compare recreation to actual paper
 - Identify gaps, innovations, limitations
 
-<button id="toggleThird" onclick="toggleVisibility('third')">Toggle Third Pass Summary</button>
+<button id="toggleThird" onclick="toggleVisibility('third')">Ask yourself after 3st Pass</button>
 
 <div id="third" style="display:none">
 
