@@ -5,9 +5,6 @@ permalink: /posts/2023/08/how-to-read-research-paper/
 tags:
   - Research Skills
 ---
-
-# How to Read a Research Paper
-
 This post summarizes an efficient three-pass approach for reading research papers, based on the article "How to Read a Paper" by S. Keshav.
 
 ## Three-Pass Approach 
