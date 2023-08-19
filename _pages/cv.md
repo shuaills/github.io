@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
+You can download the full PDF of my rusume [here](/files/cv/shishuai_resume.pdf).
+
+<iframe src="/files/cv/shishuai_resume.pdf" width="100%" height="800" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
 ## Personal Details
 Shuai Shi
 +44 07749831095 丨shishuaicareer@gmail.com 丨 Edinburgh 丨 linkedin.com/in/shuai-shi-4152a6240
